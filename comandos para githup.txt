@@ -1,0 +1,25 @@
+1.	Como primer comando use: 
+git config --global user.name "MV Thanoshan"
+para agregar mi nombre de usuario 
+
+2.	Como segundo comando use: 
+git config --global user.email example@mail.com
+para agregar el correo que agrege a github 
+
+3.	Como tercer comando use: 
+git clone [DIRECCION HTTPS]
+este comando lo use para agregar el https del repositorio 
+4.	Como tercer comando use: 
+cd [NAME OF REPOSITORY]
+este comando lo use para moverme hasta la carpeta del repositorio que esta en nuestra computadora 
+
+5.	Quinto comando que use:
+git add .
+para agregar todos los archivos sin tener que copiarlos todos 
+
+6.	Sexto comando que use fue:
+git commit -m "agregar archivos al repositorio"
+
+7.	Como ultimo comando use el:
+git push origin 
+con este comando se subieron todas mis practicas al repositorio 
